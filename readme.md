@@ -1,5 +1,7 @@
 [Image](./Banner.png)
 
+![Drag Racing](Banner.png)
+
 
 # Used Servers
 
